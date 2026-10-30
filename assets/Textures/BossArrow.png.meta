@@ -1,0 +1,138 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d918d642-1812-491a-9cd0-a45c4fa143d6",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d918d642-1812-491a-9cd0-a45c4fa143d6@6c48a",
+      "displayName": "BossArrow",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d918d642-1812-491a-9cd0-a45c4fa143d6",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d918d642-1812-491a-9cd0-a45c4fa143d6@f9941",
+      "displayName": "BossArrow",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 6.5,
+        "offsetY": -3.5,
+        "trimX": 25,
+        "trimY": 42,
+        "width": 283,
+        "height": 496,
+        "rawWidth": 320,
+        "rawHeight": 573,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -141.5,
+            -248,
+            0,
+            141.5,
+            -248,
+            0,
+            -141.5,
+            248,
+            0,
+            141.5,
+            248,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            25,
+            531,
+            308,
+            531,
+            25,
+            35,
+            308,
+            35
+          ],
+          "nuv": [
+            0.078125,
+            0.06108202443280977,
+            0.9625,
+            0.06108202443280977,
+            0.078125,
+            0.9267015706806283,
+            0.9625,
+            0.9267015706806283
+          ],
+          "minPos": [
+            -141.5,
+            -248,
+            0
+          ],
+          "maxPos": [
+            141.5,
+            248,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d918d642-1812-491a-9cd0-a45c4fa143d6@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "d918d642-1812-491a-9cd0-a45c4fa143d6@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "9blGEtAjlIcZ8lU8Yp0w4e"
+    }
+  }
+}

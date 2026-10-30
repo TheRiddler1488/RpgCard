@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "c9db9afd-92b3-4037-a764-7b4df89e3f96",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "c9db9afd-92b3-4037-a764-7b4df89e3f96@6c48a",
+      "displayName": "Floor",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "mirrored-repeat",
+        "wrapModeT": "mirrored-repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "c9db9afd-92b3-4037-a764-7b4df89e3f96",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "c9db9afd-92b3-4037-a764-7b4df89e3f96@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "9blGEtAjlIcZ8lU8Yp0w4e"
+    }
+  }
+}

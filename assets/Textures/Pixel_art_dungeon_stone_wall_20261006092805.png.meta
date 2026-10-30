@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "eb5826fa-4092-49b7-bd6f-90490a350261",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "eb5826fa-4092-49b7-bd6f-90490a350261@6c48a",
+      "displayName": "Pixel_art_dungeon_stone_wall_20261006092805",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "mirrored-repeat",
+        "wrapModeT": "mirrored-repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "eb5826fa-4092-49b7-bd6f-90490a350261",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "eb5826fa-4092-49b7-bd6f-90490a350261@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "9blGEtAjlIcZ8lU8Yp0w4e"
+    }
+  }
+}
